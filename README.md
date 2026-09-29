@@ -1,5 +1,9 @@
 # TeenTrack Frontend ⚡
 
+> **Live Deployed App**: [https://teentracker-fronted.vercel.app/login](https://teentracker-fronted.vercel.app/login)  
+> **Backend API**: [https://teentracker-backend-u8gt.onrender.com/api](https://teentracker-backend-u8gt.onrender.com/api)  
+> **Repository**: [https://github.com/SHADOW-SPACE-UI/TEENTRACKER-FRONTED](https://github.com/SHADOW-SPACE-UI/TEENTRACKER-FRONTED)
+
 Modern, responsive Single Page Application built with React 18, Vite, React Router, Recharts, and Axios.
 
 ## Features
